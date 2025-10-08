@@ -6,3 +6,4 @@
 
 <a href="../files/conceptualArchitectureReport.pdf" target="_blank" rel="noopener noreferrer">Click here to open in a new window</a>
 
+[Click here for the presentation slides](https://www.canva.com/design/DAG1KGR79-4/ViXKnGni9DMwuupIdutMsg/edit)
