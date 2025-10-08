@@ -3,6 +3,7 @@ site_url: http://yorkitects.github.io/
 nav:
   - Home: index.md
   - Contact: contact.md
+  - Conceptual Architecture: conceptarchi.md
 theme:
   name: material
   palette:
