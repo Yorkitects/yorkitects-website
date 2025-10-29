@@ -4,6 +4,7 @@ nav:
   - Home: index.md
   - Contact: contact.md
   - Conceptual Architecture: conceptarchi.md
+  - Concrete Architecture: concretarchi.md
 theme:
   name: material
   palette:
