@@ -5,6 +5,7 @@ nav:
   - Contact: contact.md
   - Conceptual Architecture: conceptarchi.md
   - Concrete Architecture: concretarchi.md
+  - Discrepancy Analysis: discrepencyanal.md
 theme:
   name: material
   palette:
