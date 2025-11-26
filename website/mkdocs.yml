@@ -6,6 +6,7 @@ nav:
   - Conceptual Architecture: conceptarchi.md
   - Concrete Architecture: concretarchi.md
   - Discrepancy Analysis: discrepancyanal.md
+  - Dependency Extraction: depenextra.md
 theme:
   name: material
   palette:
